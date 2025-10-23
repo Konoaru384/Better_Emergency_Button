@@ -1,8 +1,11 @@
 # 🚨 EmergencyButtonRestrictor
-![Downloads](https://img.shields.io/github/downloads/YourUsername/EmergencyButtonRestrictor/total?color=blue&style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
-![Exiled](https://img.shields.io/badge/Exiled-9.10.0--rc.1-yellow?style=for-the-badge)
-![SCP:SL](https://img.shields.io/badge/Game_Version-14.x-red?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/Konoaru384/EmergencyButtonRestrictor/total?color=blue&style=for-the-badge" alt="Downloads" />
+  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Exiled-9.10.0--rc.1-yellow?style=for-the-badge" alt="Exiled" />
+  <img src="https://img.shields.io/badge/Game_Version-14.x-red?style=for-the-badge" alt="SCP:SL" />
+</p>
+
 
 ---
 
