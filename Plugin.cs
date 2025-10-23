@@ -1,10 +1,7 @@
 ﻿using System.Collections.Generic;
 using Exiled.API.Features;
-using Exiled.API.Enums;
 using Exiled.Events.EventArgs.Player;
 using PlayerRoles;
-using Exiled.Events.Handlers;
-using MEC;
 using System;
 
 
@@ -63,3 +60,4 @@ namespace EmergencyButtonRestrictor
         public ushort DeniedBroadcastDuration { get; set; } = 5;
     }
 }
+
