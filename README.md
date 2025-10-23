@@ -1,4 +1,4 @@
-# 🚨 EmergencyButtonRestrictor
+# EmergencyButtonRestrictor
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Konoaru384/EmergencyButtonRestrictor/total?color=blue&style=for-the-badge" alt="Downloads" />
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version" />
@@ -9,7 +9,7 @@
 
 ---
 
-### 📜 Description
+### Description
 
 **EmergencyButtonRestrictor** is a plugin for **SCP: Secret Laboratory** built with the **Exiled API**.  
 Its goal is to **recreate the old SCP:SL atmosphere**, when **human-type SCPs could be contained or locked away**,  
@@ -47,7 +47,7 @@ denied_broadcast_duration: 5
 
 ---
 
-### 🧩 Available RoleTypeIds
+### Available RoleTypeIds FOR THE CONFIGURATION FILE
 
 Here is the **complete list of all available RoleTypeIds** you can use in the configuration file  
 under the `blacklisted_roles` section:
@@ -77,18 +77,7 @@ Tutorial
 Overwatch
 ```
 
-
-### 🎯 Plugin Objective
-
-The goal of this plugin is to **restore the immersive and tactical atmosphere** from older versions of SCP:SL,  
-where **SCPs and humans could be contained, trapped, or strategically managed**.  
-
-With **EmergencyButtonRestrictor**, server owners can:
-- Prevent certain SCPs or humans from using emergency buttons.  
-- Create more realistic containment scenarios.  
-- Encourage coordination and old-school SCP gameplay.  
-
-### 🛠️ Requirements
+### Requirements
 
 - **Exiled 9.10.0-rc.1 or newer**  
-> ✨ *Recreating the golden era of SCP: Secret Laboratory.*
+
