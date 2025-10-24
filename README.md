@@ -91,4 +91,4 @@ Overwatch
 ### Requirements
 
 - **Exiled 9.10.0-rc.1 or newer**  
-- **SCP:SL v14.0+**
+- **SCP:SL v14.2+**
