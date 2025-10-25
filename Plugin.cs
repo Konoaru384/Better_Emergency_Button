@@ -36,7 +36,6 @@ namespace EmergencyButtonRestrictor
                     ev.Player.Broadcast(Config.DeniedBroadcastDuration, Config.DeniedBroadcastMessage, Broadcast.BroadcastFlags.Normal, true);
                 }
             }
-            ev.EmergencyReleaseButton.InitialTimer = 4f;
             
             if (ev.EmergencyReleaseButton.IsReady)
             {
@@ -44,4 +43,5 @@ namespace EmergencyButtonRestrictor
             }
         }
     }
+
 }
